@@ -1,0 +1,27 @@
+{
+  "name": "next-object-accessor",
+  "version": "0.0.1",
+  "description": "Object accessor for next",
+  "main": "dist/next-object-accessor.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-object-accessor",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "build",
+    "gulpfile.js"
+  ]
+}
